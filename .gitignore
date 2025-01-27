@@ -1,0 +1,8 @@
+### IntelliJ IDEA ###
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gradle
+build
