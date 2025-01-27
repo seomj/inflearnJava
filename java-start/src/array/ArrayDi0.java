@@ -6,7 +6,8 @@ public class ArrayDi0 {
 
         int[][] arr = {
                 {1, 2, 3},
-                {4, 5, 6}
+                {4, 5, 6},
+                {7, 8, 9}
         };
 /*
         arr[0][0] = 1;
@@ -16,8 +17,8 @@ public class ArrayDi0 {
         arr[1][1] = 5;
         arr[1][2] = 6;
 */
-        for (int row = 0; row < 2; row++){
-            for (int column = 0; column < 3; column++){
+        for (int row = 0; row < arr.length; row++){
+            for (int column = 0; column < arr[row].length; column++){
                 System.out.print(arr[row][column] + " ");
             }
             System.out.println();
