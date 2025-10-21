@@ -21,8 +21,8 @@
 ---
 
 ## 🧰 실습 환경
-- **JDK 버전:** OpenJDK 17 (확인 필요)  
-- **IDE:** IntelliJ IDEA
+- **JDK 버전:** OpenJDK 24 
+- **IDE:** IntelliJ IDEA 
 - **빌드 도구:** Gradle 또는 Maven (확인 필요)  
 - **버전 관리:** Git & GitHub  
 - **운영체제:** Windows
